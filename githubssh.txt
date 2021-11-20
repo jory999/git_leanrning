@@ -1,0 +1,1 @@
+git remote add github_ssh git@github.com:jory999/git_leanrning.git
